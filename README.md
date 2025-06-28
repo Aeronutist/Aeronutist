@@ -1,16 +1,43 @@
-## Hi there 👋
+ # 👋 Hello, I'm Aero Nutist!
 
-<!--
-**Aeronutist/Aeronutist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A highly dedicated self-learner on a mission to become a **Data Scientist** by 2026.  
+💻 Currently learning Python, Pandas, SQL, Power BI, and Machine Learning step-by-step.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills I'm Building
+
+- **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Data**: SQL, Excel, Power BI, Data Cleaning, Data Wrangling
+- **Tools**: Git, GitHub, Jupyter Notebook, VS Code
+- **Future Goals**: Scikit-learn, Machine Learning, Deep Learning, NLP
+
+---
+
+## 📁 Live Projects
+
+| Project | Tools | Description |
+|--------|-------|-------------|
+| [🏏 IPL Winner Analysis](https://github.com/Aeronutist/IPL_Winner_Analysis) | Python, Pandas, Matplotlib | Explored IPL match data to identify top teams by number of wins, using visualizations |
+
+➡️ More projects coming soon...
+
+---
+
+## 🛠️ Currently Working On
+
+- Power BI dashboards
+- Real-world SQL scenarios
+- Data cleaning + storytelling
+- Building my GitHub portfolio
+
+---
+
+## 📬 Let's Connect
+
+-  
+- 🌐 GitHub: [github.com/Aeronutist](https://github.com/Aeronutist)
+
+---
+
+> “One step at a time is still progress.” 💡
