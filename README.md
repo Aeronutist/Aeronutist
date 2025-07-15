@@ -1,6 +1,6 @@
  # 👋 Hello, I'm Aero Nutist!
 
-🎯 A highly dedicated self-learner on a mission to become a **Data Scientist** by 2026.  
+🎯 A highly dedicated self-learner on a mission to become a problem solver and **Data Scientist**.  
 💻 Currently learning Python, Pandas, SQL, Power BI, and Machine Learning step-by-step.
 
 ---
